@@ -24,11 +24,11 @@
 
 -  **Mingle** :  A reddit Clone app .
 
-  Here is a link of our working app on Adaptable:
+    Here is a link of our working app on Adaptable:
 
-  https://mingle.adaptable.app/
-  ## 🔗 Link to my Organisation
-  [https://github.com/Minglehackers/Mingle]
+    https://mingle.adaptable.app/
+     ## 🔗 Link to my Organisation
+      [https://github.com/Minglehackers/Mingle]
 
 - **ecoMarts** : An e commerce platform for buying and selling eco friendly products.
 
